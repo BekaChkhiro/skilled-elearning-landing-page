@@ -1,0 +1,53 @@
+@media screen and (min-width: 1440px) {
+    
+    body {
+        background: url(./starter-code/assets/image-hero-desktop.png);
+        background-repeat: no-repeat;
+        background-position: top -150px right -330px;
+        background-size: 991px 936px;
+    }          
+    /* header */ 
+    header {
+        padding: 24px 165px;
+    }
+
+    /* section 1 */
+    .section-1 {
+        margin-top: 178px;
+        padding: 0px 165px;
+    }
+
+    .content {
+        flex-basis: 40%;
+    }
+
+
+
+    /* courses */
+
+    .courses {
+        margin-top: 250px;
+        background: linear-gradient(180deg, #FFFFFF 0%, #f0f1ff 100%);
+        padding-bottom: 140px;
+    }
+    .curses-container {
+        padding: 0px 165px;
+        gap: 80px 30px;
+    }
+
+    #curses-text {
+        padding: 64px 32px 138px 32px;
+        width: 286px;
+    }
+    #curses-text p {
+        width: 286px;
+    }
+
+    .curse-item {
+        padding-left: 32px;
+        padding-right: 32px;
+        width: 286px;
+        background-color: #FFFFFF;
+    }
+
+}

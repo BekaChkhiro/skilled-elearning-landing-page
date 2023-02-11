@@ -1,0 +1,83 @@
+@media screen and (min-width: 768px){
+
+
+    body {
+        background-image: url(./starter-code/assets/image-hero-tablet.png);
+        background-repeat: no-repeat;
+        background-position: top -65px right -274px;
+        background-size: 640px 640px;
+    }
+
+    /* header */ 
+    header {
+        padding: 24px 39px 0px 39px;
+    }
+
+    /* footer */
+    footer {
+        padding: 36px 40px 36px 39px;
+    }
+
+
+    /* section-1 */
+
+    .section-1 {
+        margin-top: 98px;
+        flex-direction: row;
+        padding: 0px 39px;
+    }
+
+    .content {
+        flex-basis: 50%;
+        max-width: 100%;
+    }
+
+
+    @media (min-width: 768px) {
+        .main-image-mobile {
+            display: none;
+        }
+    }
+
+    @media (min-width: 768px) {
+        .main-image-mobile {
+            display: none;
+        }
+    }
+
+    .main-image-tablet {
+        transform: translate(200px, 100px);
+    }
+    
+    
+    
+    
+    
+    
+    /* courses */
+ 
+
+    .courses {
+        margin-top: 171px;
+        padding: 24px 0px 86px 0px;
+        background: linear-gradient(180deg, #FFFFFF 0%, #f0f1ff 100%);
+    }
+
+    .curses-container {
+        padding: 0px 39px;
+        gap: 56px 10px;
+    }
+
+    .curse-item {
+        padding: 0px 22px 32px 32px;
+        width: 282px;
+    }
+
+    #curses-text {
+        padding: 56px 21px 139px 32px;
+        width: 282px;
+    }
+
+    
+
+}
