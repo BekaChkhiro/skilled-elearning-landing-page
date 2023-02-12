@@ -1,7 +1,7 @@
 @media screen and (min-width: 1440px) {
     
     body {
-        background: url(./starter-code/assets/image-hero-desktop.png);
+        background: url(/starter-code/assets/image-hero-desktop.png);
         background-repeat: no-repeat;
         background-position: top -150px right -330px;
         background-size: 991px 936px;
@@ -26,11 +26,14 @@
     /* courses */
 
     .courses {
+
         margin-top: 250px;
         background: linear-gradient(180deg, #FFFFFF 0%, #f0f1ff 100%);
         padding-bottom: 140px;
     }
     .curses-container {
+        margin: auto;
+        width: 1110px;
         padding: 0px 165px;
         gap: 80px 30px;
     }
