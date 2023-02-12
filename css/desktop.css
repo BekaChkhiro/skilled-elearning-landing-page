@@ -1,7 +1,7 @@
 @media screen and (min-width: 1440px) {
     
     body {
-        background: url(/starter-code/assets/image-hero-desktop.png);
+        background: url(../starter-code/assets/image-hero-desktop.png);
         background-repeat: no-repeat;
         background-position: top -150px right -330px;
         background-size: 991px 936px;

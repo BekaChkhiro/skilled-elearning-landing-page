@@ -2,7 +2,7 @@
 
 
     body {
-        background-image: url(/starter-code/assets/image-hero-tablet.png);
+        background-image: url(./starter-code/assets/image-hero-desktop.png);
         background-repeat: no-repeat;
         background-position: top -65px right -274px;
         background-size: 640px 640px;
