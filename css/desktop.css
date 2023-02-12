@@ -10,6 +10,10 @@
     header {
         padding: 24px 165px;
     }
+    
+    footer {
+        padding: 32px 164px;
+    }
 
     /* section 1 */
     .section-1 {
